@@ -34,7 +34,7 @@ public class JavaIntegerLiterals
        System.out.println("A rounded value of Pi: " + piFloatValue);
        System.out.println("Pi from a scientific notation: " + piScientific);
 
-       System.out.println("First three letters of the alphabet: "  + "\n" + myFirstChar + "\n" + mySecondChar + "\n" +myThirdChar);
+       System.out.println("First three letters of the alphabet: "+ "\n" +  myFirstChar + "\n" + mySecondChar + "\n" +myThirdChar);
  
        System.out.println("Who am I?  = " + myString);
      }                                                                                                       
