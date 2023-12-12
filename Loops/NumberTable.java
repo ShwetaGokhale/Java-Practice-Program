@@ -8,7 +8,7 @@ class   NumberTable
 	{
 		for(int  i =  1; i <= 10;  i++)
 		{
-			System.out.println("Multiplication  Table   =  "  + i*7);
+			 System.out.println("Multiplication  Table   =  "  + i*7);
 		}
 	} 
 }
