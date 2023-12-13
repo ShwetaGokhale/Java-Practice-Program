@@ -1,4 +1,4 @@
-
+// Create a Java program that compares two numbers and prints whether the first number is greater than, less than, or equal to the second number.
 
 public class TwoNumbers
 {
