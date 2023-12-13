@@ -1,3 +1,6 @@
+ //Implement  a  program  to  calculate  the  simple  interest  using  this  formula  (simpleInterest = principal * (1 + rate * time)).
+
+
 public  class  Interest
 {
 	public  static  void  main(String args[])
