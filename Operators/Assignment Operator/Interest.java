@@ -8,8 +8,8 @@ public  class  Interest
 		int  t  =  6;
 		si = (p*(1+r*t));
 		System.out.println("Principle  =  " +p);
-		System.out.println("Rate  =  " +p);
-		System.out.println("Time  =  " +p);
+		System.out.println("Rate  =  " +r);
+		System.out.println("Time  =  " +t);
 		System.out.println("Simple Interest  =  " +si);
 	}
 }
