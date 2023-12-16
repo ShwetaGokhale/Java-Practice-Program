@@ -11,6 +11,6 @@ class  WebCode
 		obj.add();
 		WebCode  j  =  new  WebCode();
 		j.add();
-		System.out.println(i);
+		System.out.println(WebCode.i);
 	}
 }
